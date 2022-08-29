@@ -1,6 +1,6 @@
 # Cloudifier
 #### Description:
-This program ilustrates the grouping of pixels that touch eachother horizontally or vertically, just like the movement of a rook across a chessboard. The resulting output are pictures of which the first one displays horizontally touching pixels in each row having the same color (called "cloudlines"). The second picture shows the result after those horizontal lines have been merged if they are connected vertically. In this resulting second picture all pixels sharing a vertical or horizontal border have the same color.
+This program illustrates the grouping of pixels that touch eachother horizontally or vertically, just like the movement of a rook across a chessboard. The resulting output are pictures of which the first one displays horizontally touching pixels in each row having the same color (called "cloudlines"). The second picture shows the result after those horizontal lines have been merged if they are connected vertically. In this resulting second picture all pixels sharing a vertical or horizontal border have the same color.
 
 #### Installation:
 The program requires Python 3 and two libraries: Pillow and Mathplotlib.
